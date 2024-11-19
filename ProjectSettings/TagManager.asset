@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - groundLayer
+  - Water
+  - UI
+  - playerLayer
+  - enemyLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4228279073
+    locked: 0
+  - name: BG5
+    uniqueID: 2033366055
+    locked: 0
+  - name: BG4
+    uniqueID: 1082473271
+    locked: 0
+  - name: BG3
+    uniqueID: 2477379857
+    locked: 0
+  - name: BG2
+    uniqueID: 3688838325
+    locked: 0
+  - name: BG1
+    uniqueID: 597834047
+    locked: 0
+  - name: Ground
+    uniqueID: 159612995
+    locked: 0
+  - name: TrangTri
+    uniqueID: 2605047201
+    locked: 0
+  - name: TrangTri 2
+    uniqueID: 2389656963
+    locked: 0
+  - name: CanhBao
+    uniqueID: 3003534407
+    locked: 0
+  - name: Building
+    uniqueID: 3911179425
+    locked: 0
+  - name: Building 2
+    uniqueID: 2649324235
+    locked: 0
+  - name: TanTich
+    uniqueID: 3199007823
+    locked: 0
+  - name: Title 7
+    uniqueID: 108092603
+    locked: 0
+  - name: Monster
+    uniqueID: 2689843061
+    locked: 0
+  - name: Player
+    uniqueID: 1708550319
+    locked: 0
